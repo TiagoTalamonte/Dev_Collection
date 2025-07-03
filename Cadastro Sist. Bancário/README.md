@@ -1,8 +1,6 @@
 # 🏦 Sistema Bancário em Python com Interface Gráfica
-<<<<<<< HEAD
-=======
 ## AINDA EM DESENVOVIMENTO ##
->>>>>>> dfd600d (Alterações)
+
 
 Este projeto é um sistema bancário simples desenvolvido em Python, que utiliza arquivos JSON para persistência de dados e Tkinter para a interface gráfica. O sistema permite cadastrar clientes, criar contas, realizar depósitos, saques, consultar extratos e buscar clientes.
 
@@ -85,6 +83,5 @@ Este projeto é um sistema bancário simples desenvolvido em Python, que utiliza
 - Integração com os módulos de backend para persistência e lógica de negócio.
 
 
->>>>>>> dfd600d (Alterações)
 
 
